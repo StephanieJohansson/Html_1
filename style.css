@@ -1,0 +1,52 @@
+html {
+    background-color: rgb(236, 222, 201);
+
+}
+h1 {
+    width: 30%;
+    font-size: 50px;
+    font-style: italic;
+    color: rgb(90, 73, 52);
+    background-color: rgba(255, 255, 255, 0.26);
+}
+section {
+    font-size: 30px;
+    font-style: italic;
+    
+}
+p {
+    font-size: 15px;
+    font-style: oblique;
+}
+button { 
+    height: 50px;
+    width: 250px;
+    font-size: large;
+    color: rgb(247, 68, 202);
+}
+h2 {
+    width: 15%;
+    color: blueviolet;
+    background-color: rgba(255, 255, 255, 0.26);
+}
+h3 {
+    width: 15%;
+    color: rgb(241, 72, 227);
+    background-color: rgba(255, 255, 255, 0.26);
+}
+h4 {
+    width: 15%;
+    color: rgb(98, 118, 211);
+    background-color: rgba(255, 255, 255, 0.26);
+}
+ul {
+    font-size: 20px;
+    font-style: Times;
+    font-weight: bold;
+}
+footer {
+    font-size: 15px;
+    color: rgba(117, 106, 94, 0.623);
+    font-style: oblique;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
