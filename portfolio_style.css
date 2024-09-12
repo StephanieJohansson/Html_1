@@ -1,0 +1,46 @@
+html
+{ 
+    background-color: rgb(155, 155, 155);
+
+}
+
+h1 {
+    font-family:'Times New Roman', Times, serif;
+    font-size: 50px;
+    font-stretch: expanded;
+    background-color: rgba(100, 100, 100, 0.212);
+    width: 35%;
+    
+}
+
+nav {
+    font-size: 20px;
+    color: aliceblue;
+
+}
+
+section {
+    font-family: Times;
+    font-size: 30px;
+    font-weight: bold;
+
+}
+
+h2 
+{
+    font-style:oblique;
+
+}
+
+img {
+    width: 10%;
+    height: 10%;
+}
+footer 
+{
+    font-size: 15px;
+    color: rgba(105, 103, 103, 0.411);
+    font-style: oblique;
+    font-family: Segoe UI;
+    place-content: bottom;
+}

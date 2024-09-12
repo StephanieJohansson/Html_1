@@ -1,0 +1,66 @@
+html
+{ 
+    background-color: rgb(155, 155, 155);
+
+}
+
+h1 
+{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 50px;
+    font-stretch: expanded;
+    background-color: rgba(100, 100, 100, 0.212);
+    width: 35%;
+}
+nav 
+{
+    font-size: 20px;
+    color: aliceblue;
+
+}
+section {
+    font-family: Times;
+    font-size: 30px;
+    font-weight: bold;
+
+}
+p 
+{
+    width: 30%;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 17px;
+        font-style:oblique;
+        border: 1px solid rgba(80, 69, 75, 0.466);
+        padding: 10px;
+        background-color: rgba(139, 138, 138, 0.37);
+}
+h2 
+{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 25px;
+    font-stretch:extra-expanded;
+    font-style:oblique;
+    border: 1px solid rgba(80, 69, 75, 0.466);
+    padding: 10px;
+    width: 20%;
+
+}
+ul {
+    font-size: 20px;
+    font-style: Times;
+    font-weight: bold;
+    position: relative; 
+	display: inline-block; 
+	padding-left: 1em; 
+	left: 55%; 
+    transform: translateX(-100%); 
+	
+}
+footer 
+{
+    font-size: 15px;
+    color: rgba(105, 103, 103, 0.411);
+    font-style: oblique;
+    font-family: Segoe UI;
+    place-content: bottom;
+}
